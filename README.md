@@ -1,0 +1,1 @@
+Simple and fast solve tasks from codility in interview
